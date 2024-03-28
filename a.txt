@@ -7,3 +7,5 @@ This is the comment to check the pull request is working fine or not
  welcome
  to 
  qualcomm
+I am practicing the jenkins tool 
+i got successfully triggere the first job
