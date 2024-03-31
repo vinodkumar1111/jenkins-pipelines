@@ -1,0 +1,11 @@
+learning git Tool
+Today is monday
+I want to add the tag to the current source code inorder to reuse it in the future
+This is the comment to check the pull request is working fine or not
+ hi
+ hello
+ welcome
+ to 
+ qualcomm
+I am practicing the jenkins tool 
+i got successfully triggere the first job
