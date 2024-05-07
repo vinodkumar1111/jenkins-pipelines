@@ -1,0 +1,18 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('checout') {
+            steps {
+                // Checkout source code from GitHub repository
+                git 'https://github.com/vinodkumar1111/one.git'
+            }
+        }
+        stage('Maven build') {
+            steps {
+                 // Run Maven commands to clean and package the project
+                sh 'mvn clean package'
+            }
+        }
+    }
+}
